@@ -1,0 +1,10 @@
+#div_top{
+  display: block;
+}
+.div{
+  background-color: orange;
+  padding: 15%;
+  margin: 0.5%;
+  float: left;
+  border-radius: 10%;
+}
