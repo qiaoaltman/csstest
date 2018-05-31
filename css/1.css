@@ -1,10 +1,13 @@
-#div_top{
-  display: block;
+.box-wrap {
+    text-align: center;
+    overflow: hidden; 
 }
-.div{
-  background-color: orange;
-  padding: 15%;
-  margin: 0.5%;
-  float: left;
-  border-radius: 10%;
+
+.box-wrap>div {
+    width: 31%;
+    padding-bottom: 31%;
+    margin: 1%;
+    border-radius: 10%;
+    float: left;
+    background-color: orange;
 }
