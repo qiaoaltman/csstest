@@ -1,13 +1,21 @@
-.box-wrap {
-    text-align: center;
-    overflow: hidden; 
+* {
+    padding: 0;
+    margin: 0;
 }
 
-.box-wrap>div {
+body {
+    width: 100%;
+    padding-bottom: 100%;
+    padding-left: 0.5%;
+    padding-top: 0.5%;
+    padding-right: 0.5%;
+}
+
+.a {
+    float: left;
     width: 31%;
     padding-bottom: 31%;
+    background-color: red;
     margin: 1%;
-    border-radius: 10%;
-    float: left;
-    background-color: orange;
+    border-radius: 15px;
 }
