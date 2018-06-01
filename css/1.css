@@ -3,19 +3,16 @@
     margin: 0;
 }
 
-body {
-    width: 100%;
-    padding-bottom: 100%;
-    padding-left: 0.5%;
-    padding-top: 0.5%;
-    padding-right: 0.5%;
+.box-wrap{
+	text-align: center;
+	overflow: hidden;
 }
 
-.a {
+.box {
     float: left;
     width: 31%;
     padding-bottom: 31%;
-    background-color: red;
+    background-color: orange;
     margin: 1%;
-    border-radius: 15px;
+    border-radius: 10px;
 }
