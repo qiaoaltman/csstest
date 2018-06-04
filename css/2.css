@@ -3,6 +3,10 @@
 	padding: 0;
 	background-color: #68CDD6;
 }
+.top{
+	margin-left: 1%;
+	margin-top: 2%;
+}
 .divimg{
 	width: 35%;
 	height: 20%;
